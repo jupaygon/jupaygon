@@ -1,4 +1,4 @@
-### Hey, I'm Juanjo 👋
+### Hey, I'm Juanjo Payá 🖖🏻
 
 **Senior Software Engineer** building software since 2003. Currently CTO & Co-Founder at [Zeronet IT](https://github.com/zeronetdev), focused on AI-augmented development — using AI agents as real collaborators in the software development workflow.
 
