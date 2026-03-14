@@ -39,4 +39,4 @@ AI Tools     Claude Code · AI Skills · Agent Ops
 
 📧 Email: juanjopaya@gmail.com
 🌐 Web: [juanjopaya.com](https://juanjopaya.com)
-💼 LinkedIn: [juanjo-paya](https://www.linkedin.com/in/juanjo-paya/)
+💼 LinkedIn: [juanjo-paya](https://linkedin.com/in/juanjo-paya/)
