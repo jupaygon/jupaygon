@@ -10,7 +10,7 @@
 
 🐳 **[docker](https://github.com/jupaygon/docker)** — Unified Docker dev environment with wildcard nginx + dnsmasq. Zero config — any project in the workspace is served automatically.
 
-⚡ **[symfony-skeleton](https://github.com/jupaygon/symfony-skeleton)** — Symfony 7 starter template with hexagonal architecture. From zero to clean project in seconds.
+⚡ **[symfony-skeleton](https://github.com/jupaygon/symfony-skeleton)** — Symfony 8 starter template with hexagonal architecture (Domain/Application/Infrastructure). From zero to clean project in seconds.
 
 ---
 
