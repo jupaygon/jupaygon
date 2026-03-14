@@ -32,3 +32,11 @@ DevOps       Docker · AWS · CI/CD · Deployer
 Practices    TDD · PHPUnit · Scrum · Code Review
 AI Tools     Claude Code · AI Skills · Agent Ops
 ```
+
+---
+
+#### Get in touch
+
+📧 Email: juanjopaya@gmail.com
+🌐 Web: [juanjopaya.com](https://juanjopaya.com)
+💼 LinkedIn: [juanjo-paya](https://www.linkedin.com/in/juanjo-paya/)
