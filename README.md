@@ -32,3 +32,11 @@ DevOps       Docker · AWS · CI/CD · Deployer
 Practices    TDD · PHPUnit · Scrum · Code Review
 AI Tools     Claude Code · AI Skills · Agent Ops
 ```
+
+---
+
+#### Get in touch
+
+🌐 GitHub: [jupaygon](https://github.com/jupaygon)
+📧 Email: juanjopaya@gmail.com
+💼 LinkedIn: [juanjo-paya](https://linkedin.com/in/juanjo-paya/)
