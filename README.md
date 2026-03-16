@@ -12,6 +12,8 @@
 
 ⚡ **[symfony-skeleton](https://github.com/jupaygon/symfony-skeleton)** — Symfony 8 starter template with hexagonal architecture (Domain/Application/Infrastructure). From zero to clean project in seconds.
 
+🎨 **[symfony-dashboard-skeleton](https://github.com/jupaygon/symfony-dashboard-skeleton)** — Production-ready admin dashboard on Symfony 8 + EasyAdmin 5. Multi-tenant, multi-brand skinning, role hierarchy, hexagonal architecture — hours of boilerplate already done.
+
 ---
 
 #### AI-Augmented Development
