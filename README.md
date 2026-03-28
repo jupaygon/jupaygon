@@ -6,7 +6,7 @@
 
 #### What I'm working on
 
-🤖 **[ai-skills](https://github.com/jupaygon/ai-skills)** — Production-ready verified skills for AI coding agents (Claude Code, Cursor). No hallucinations, no outdated APIs. First skill: EasyAdmin 5.
+🤖 **[ai-skills](https://github.com/jupaygon/ai-skills)** — Production-ready verified skills for AI coding agents (Claude Code, Cursor). Verified, up-to-date API references. First skill: EasyAdmin 5.
 
 🐳 **[docker](https://github.com/jupaygon/docker)** — Unified Docker dev environment with wildcard nginx + dnsmasq. Zero config — any project in the workspace is served automatically.
 
@@ -40,5 +40,5 @@ AI Tools     Claude Code · AI Skills · Agent Ops
 #### Get in touch
 
 📧 Email: juanjopaya@gmail.com  
-🌐 GitHub: [jupaygon](https://github.com/jupaygon)  
+🌐 Blog: [juanjopaya.com](https://juanjopaya.com)  
 💼 LinkedIn: [juanjo-paya](https://linkedin.com/in/juanjo-paya/)
